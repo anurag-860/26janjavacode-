@@ -37,7 +37,7 @@ public class helloworld {
         String filter = (args.length == 0) ? "all" : args[0].toLowerCase().trim();
 
         System.out.println("=====================================");
-        System.out.println(" Fun facts for January 26");
+        System.out.println(" Fun facts for month of January 26");
         System.out.println("=====================================");
         System.out.println();
 
